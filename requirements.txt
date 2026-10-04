@@ -1,0 +1,12 @@
+# Core
+Flask
+Werkzeug
+
+# Machine Learning / Computer Vision
+tensorflow
+numpy
+Pillow
+
+# Optional data science / evaluation
+scikit-learn
+matplotlib
